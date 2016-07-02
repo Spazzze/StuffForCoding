@@ -2,7 +2,7 @@
 
 # Installation
 
-1. Copy Obsidian.icls to your IntelliJ IDEA preferences color directory.
+1. Copy Obsidian_modified.icls to your IntelliJ IDEA preferences color directory. 
 
   - Mac OS X
 
@@ -13,7 +13,9 @@
     
   - Windows
     - Documents and Settings/<user>/.IdeaIC12/config/colors (IntelliJ IDEA 12 Community Edition)
+     
+2. Make sure that name of file is same as inside at ```<scheme name="Obsidian_modified" version="142" parent_scheme="Default">```
 
-2. Restart IntelliJ IDEA / Android Studio
+3. Restart IntelliJ IDEA / Android Studio
 
-3. Go to Preferences | Editor | Colors & Fonts and select Obsidian color themes.
+4. Go to Preferences | Editor | Colors & Fonts and select Obsidian color themes.
